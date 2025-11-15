@@ -1,2 +1,1 @@
-[website](https://11chan.org)
-javascript enjoyer
+[website](https://11chan.org) // javascript enjoyer
